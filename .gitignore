@@ -28,3 +28,5 @@
 
 #Original
 .DS_Store
+/.ash_history
+/.irb_history
